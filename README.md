@@ -1,7 +1,3 @@
-Here's the modified README for your project:
-
----
-
 <a name="readme-top"></a>
 
 <div align="center">
@@ -209,5 +205,3 @@ I would like to thank the authors of Vite, ESLint, and Prettier for creating suc
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
